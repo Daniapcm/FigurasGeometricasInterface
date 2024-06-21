@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	Rectangulo r1= new Rectangulo ("Cancha", 10,20);
 	Rombo r2= new Rombo ("Papalote", 60,30,20);
 	Romboide r3= new Romboide ("Androide", 60,40);
-	Trapecio t3= new Trapecio ("Trap",20,40,35,10,15,20,25);
+	Trapecio t3= new Trapecio ("Trap",20,40,35,20,25,40,25);
 	imprimirCalculo(t1); imprimirCalculo(t2);
 	imprimirCalculo(c1);
 	imprimirCalculo(r1);
